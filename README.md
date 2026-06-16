@@ -96,6 +96,8 @@ Estatística · Programação · Business Intelligence · Análise Exploratória
 | Discovering Artificial Intelligence and Machine Learning | Udacity |
 | Introdução à Criação de Prompts Inteligentes com a Microsoft | Microsoft |
 | Capacitação em Governança de Dados | Enap - Escola Nacional de Administração Pública |
+| Proteção de dados e privacidade para todos | Santander Open Academy |
+| Introdução à organização de dados para análise multivariada | Fundação Getulio Vargas |
 
 ---
 
