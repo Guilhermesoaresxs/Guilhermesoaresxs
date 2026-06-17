@@ -1,7 +1,6 @@
+# Olá, eu sou o Guilherme Soares! ✍️ 🚀
 
-Estudante de Ciência de Dados | Focado em transformar dados em decisões! Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tecnologia.
-
-
+**Ciência de Dados** | Focado em transformar dados em decisões! Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tecnologia.
 
 ---
 
