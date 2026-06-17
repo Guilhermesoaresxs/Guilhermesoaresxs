@@ -1,13 +1,7 @@
-<p align="center">
-  <img src="port.png" alt="Guilhermesoaresxs - Portfólio de Dados" width="100%">
-</p>
+
+Estudante de Ciência de Dados | Focado em transformar dados em decisões! Atualmente busco minha primeira oportunidade de estágio na área de Dados e Tecnologia.
 
 
-**Estudante de Ciência de Dados | Python · Excel · SQL · PowerBi · CRISP-DM**  
-🇧🇷 Santana de Parnaíba, São Paulo
-
-Estou em transição para a área de **Dados IA e Automação**, possuo uma trajetória diversificada que combina o rigor analítico dos setores Químico e Indústrial com a visão estratégica do setor de Vendas e Atendimento Comercial, com foco em processos, KPIs e qualidade.  
-Apaixonado por transformar dados em **insights estratégicos** que geram valor real para os negócios.
 
 ---
 
