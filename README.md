@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="port.png" alt="Guilhermesoaresxs - Portfólio de Dados" width="100%">
+</p>
+
+
 **Estudante de Ciência de Dados | Python · Excel Intermediário · CRISP-DM**  
 🇧🇷 Santana de Parnaíba, São Paulo
 
