@@ -29,7 +29,18 @@ Estudante de Ciência de Dados | Focado em transformar dados em decisões! Atual
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias & Ferramentas
+
+### 📊 Visualização de Dados & Business Intelligence (BI)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🗄️ Bancos de Dados
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ☁️ Cloud Computing (Ambientes de Nuvem)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Linguagens & Bibliotecas
 
@@ -38,15 +49,11 @@ Estudante de Ciência de Dados | Focado em transformar dados em decisões! Atual
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Ferramentas & Plataformas
-
+### 🛠️ Ambientes de Desenvolvimento & Versionamento
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VOSviewer](https://img.shields.io/badge/VOSviewer-0055A4?style=for-the-badge&logo=data&logoColor=white)
-![Publish or Perish](https://img.shields.io/badge/Publish_or_Perish-555555?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### Metodologias
 
