@@ -3,7 +3,7 @@
 </p>
 
 
-**Estudante de Ciência de Dados | Python · Excel Intermediário · CRISP-DM**  
+**Estudante de Ciência de Dados | Python · Excel · SQL · PowerBi · CRISP-DM**  
 🇧🇷 Santana de Parnaíba, São Paulo
 
 Estou em transição para a área de **Dados IA e Automação**, possuo uma trajetória diversificada que combina o rigor analítico dos setores Químico e Indústrial com a visão estratégica do setor de Vendas e Atendimento Comercial, com foco em processos, KPIs e qualidade.  
