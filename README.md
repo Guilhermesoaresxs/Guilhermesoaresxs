@@ -88,7 +88,7 @@ Estatística · Programação · Business Intelligence · Análise Exploratória
 
 - **Resultado:** Buscar por "Dados" abre 6,3x mais portas que "Cientista de Dados". 93,2% das vagas omitem salário. Cargos com remuneração exposta variam de R$ 3.561 (Analista) a R$ 9.150 (Especialista). O estudo aponta a ausência de padronização na publicação de vagas como barreira real ao acesso a oportunidades no mercado de tecnologia brasileiro.
 
-### Participação - V e VI - Maratona de Análise de Dados | Setembro 2025 e Juho de 2026
+### Participação - V e VI - Maratona de Análise de Dados | Setembro 2025 e Junho de 2026
 
 - Competição de alta performance focada na resolução de um desafio real de negócios através da análise de dados. Atuei em equipe no desenvolvimento de uma solução ponta a ponta sob restrição de tempo, desde o entendimento do problema até a apresentação dos resultados.
 
